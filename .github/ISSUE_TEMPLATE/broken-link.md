@@ -9,6 +9,9 @@ assignees: Leia286
 
 #What Page was the link broken on?#
 URL:
+
 #What link was it?#
 Description of which link (ie: link to Star Wars page)
+
 #Optional: When was page accessed?#
+Date: day/month/year
